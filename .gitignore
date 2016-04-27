@@ -1,0 +1,5 @@
+.DS_Store
+output/*.csv
+output/pivot-csv/*.csv
+output/merged-shp/*.*
+!output/merged-shp/.gitkeep
