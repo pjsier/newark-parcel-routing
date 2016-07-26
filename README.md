@@ -32,7 +32,8 @@ School list comes from [Newark Public Schools](http://www.nps.k12.nj.us/schools/
 
 ### Data Units
 **Distance:** Meters
-**Time:** Minutes
+
+**Time:** Seconds
 
 ### OpenTripPlanner JAR
 OpenTripPlanner JAR file was created with a modification that adds the `getTotalDistance()`
